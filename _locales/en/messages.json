@@ -1,0 +1,6 @@
+{
+  "notificationText": {
+    "message": "Done. Probably, now you can select content on the page!",
+    "description": "Text, that will be displayed in the notification."
+  }
+}

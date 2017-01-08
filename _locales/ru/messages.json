@@ -1,0 +1,6 @@
+{
+  "notificationText": {
+    "message": "Готово! Скорее всего, теперь вы сможете выделить текст на странице!",
+    "description": "Text, that will be displayed in the notification."
+  }
+}

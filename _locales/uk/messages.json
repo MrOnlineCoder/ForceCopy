@@ -1,0 +1,6 @@
+{
+  "notificationText": {
+    "message": "Готово! Тепер ви маєте змогу виділити текст на сторінці!",
+    "description": "Text, that will be displayed in the notification."
+  }
+}
